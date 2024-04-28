@@ -1,0 +1,34 @@
+body {
+    width: auto;
+    height: auto;
+    color:aliceblue;
+    background-image: url(mountains-morning-snow-rock-mountain-landscape.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Sofia", sans-serif;
+    font-size: 25px; 
+  }
+#nav {
+    margin: 0px auto 0px auto;
+    height: 30px;
+    text-align: right;
+}
+
+#navbar>li {
+    display: inline-block;
+    margin-right: 75px;
+    font-size: 20px;
+    padding-top: 5px;
+    text-align: right;
+    color: aliceblue;
+}
+
+#logo {
+  margin-left: 50px;
+  padding-top: 2px;
+  padding-left: 10px;
+  padding-bottom: 0px;
+  width: 200px;
+
+}
